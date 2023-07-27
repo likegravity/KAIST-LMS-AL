@@ -3,8 +3,9 @@ kaistIP LMS auto login system for KaistIP student
 
 깃허브 계정 있는 사람은 star좀 눌러주셈 ㅎㅎ..
 
+
 1. 무슨 프로그램인가?
----
+   --
 KaistIP 학생용 LMS 사이트를
 컴퓨터가 켜짐과 동시에 자동으로 로그인 하며 꺼지고, 완료창을 띄우는 프로그램이다.
 
