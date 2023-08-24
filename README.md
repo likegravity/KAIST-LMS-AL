@@ -1,3 +1,7 @@
+#현재 아예 작동하지않는 오류생김. 셀레니움오류인가 뭔가
+해결중에있습니다
+
+
 # kaistip_LMS_auto_login_system
 kaistIP LMS auto login system for KaistIP student
 
