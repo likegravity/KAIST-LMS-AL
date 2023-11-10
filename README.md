@@ -1,8 +1,12 @@
 ~~# 현재 아예 작동하지않는 오류생김. 셀레니움오류인가 뭔가 해결중에있습니다~~
+
 ~~응아니죠 고쳤죠? 이제 잘 작동함 ㅋ~~
+
 # 네! 어김없이 또 생겼습니다! ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 
 https://googlechromelabs.github.io/chrome-for-testing/
 stable 버전 다운받아서 chromedriver와 바꿔쳐주시길바랍니다 감사합니다.
+본인이 chrome beta, dev, canary를 사용하는 변태라면,
+chrome://version/가서 본인 버전에 맞게, 선택한후 다운 받으시면 됩니다.
 
 #chrome 아닙니다 chrome driver 다운받으셔야합니다.
 
