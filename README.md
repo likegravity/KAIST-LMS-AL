@@ -1,19 +1,17 @@
-~~# 현재 아예 작동하지않는 오류생김. 셀레니움오류인가 뭔가 해결중에있습니다~~
+# 다운받으시고 가장 먼저 할 일.
 
-~~응아니죠 고쳤죠? 이제 잘 작동함 ㅋ~~
-
-# 네! 어김없이 또 생겼습니다! ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 
 https://googlechromelabs.github.io/chrome-for-testing/
 stable 버전 다운받아서 chromedriver와 바꿔쳐주시길바랍니다 감사합니다.
+
 본인이 chrome beta, dev, canary를 사용하는 변태라면,
 chrome://version/가서 본인 버전에 맞게, 선택한후 다운 받으시면 됩니다.
 
-#chrome 아닙니다 chrome driver 다운받으셔야합니다.
+# chrome 아닙니다 chrome driver 다운받으셔야합니다.
 
 # kaistip_LMS_auto_login_system
 kaistIP LMS auto login system for KaistIP student
 
-깃허브 계정 있는 사람은 star좀 눌러주셈 ㅎㅎ..
+깃허브 계정 있는 사람은 별아이콘좀 눌러주세요
 
 
 1.무슨프로그램인가?
@@ -43,6 +41,6 @@ KaistIP 학생용 LMS 사이트를
 개발의도
 ---
 맨날 출석하기 귀찮아 원래는 사이트만 자동으로 열게 했는데
-이젠 로그인버튼 누르기도 귀찮아서 그냥 컴퓨터 열면 켜지게 만들었음
+이젠 로그인버튼 누르기도 귀찮아서 그냥 컴퓨터 열면 켜지게 만들었습니다
 혼자쓰기는 아까워서 이제 공유하려고하는데
-쓸사람이 얼마나 될지는 모르겠음 ㅋㅋ;
+쓸사람이 얼마나 될지는 모르겠네요 
