@@ -13,6 +13,8 @@ kaistIP LMS auto login system for KaistIP student
 
 깃허브 계정 있는 사람은 별아이콘좀 눌러주세요
 
++버그나 뭐 필요한거있으면 Issue 올려주시거나 request 올려주세요
+
 
 1.무슨프로그램인가?
 ---
