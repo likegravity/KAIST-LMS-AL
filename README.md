@@ -8,8 +8,8 @@ chrome://version/가서 본인 버전에 맞게, 선택한후 다운 받으시�
 
 # chrome 아닙니다 _chrome driver_ 다운받으셔야합니다.
 
-# kaistip_LMS_auto_login_system
-kaistIP LMS auto login system for KaistIP student
+# KAIST_CCE_LMS_auto_login_system
+KAIST CCE LMS auto login system for KAIST CCE student
 
 깃허브 계정 있는 사람은 별아이콘좀 눌러주세요
 
@@ -18,7 +18,7 @@ kaistIP LMS auto login system for KaistIP student
 
 1.무슨프로그램인가?
 ---
-KaistIP 학생용 LMS 사이트를
+KAIST CCE 학생용 LMS 사이트를
 컴퓨터가 켜짐과 동시에 자동으로 로그인 하며 꺼지고, 완료창을 띄우는 프로그램이다.
 
 
