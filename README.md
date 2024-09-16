@@ -3,6 +3,7 @@
 
 If you're using Chrome Beta, Dev, or Canary, you can go to `chrome://version/`, find your current version, and download the appropriate one. 
 Or you can click [this link](https://github.com/likegravity/KAIST-LMS-AL/releases/download/C%23/kaistip.LMS.auto.login.system.zip)
+
 This is an automatic login system for the LMS, designed for KAIST Gifted Education Center students. 
 It automatically logs into the KAIST CCE student LMS site as soon as the computer starts up, then shuts down after completion and displays a confirmation window.
 
